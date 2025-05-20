@@ -1,9 +1,5 @@
 # Jobs-Analysis-Project
 🔍 Jobs Analysis Project A data-driven exploration of job market trends using Python and Google Colab. This project analyzes job roles, required skills, salaries, and top employers to uncover actionable insights for job seekers and researchers.
-```markdown
-# 💼 Jobs Analysis Project
-
-![Jobs Analysis Dashboard](https://raw.githubusercontent.com/AshishJangra27/Jobs-Analysis-Project/refs/heads/main/banner.png)
 
 ## 📊 Overview  
 This project delivers a comprehensive analysis of job market trends, focusing on demand for roles, skill requirements, salary benchmarks, and top employers. Data is sourced from a GitHub repository and processed to extract actionable insights to help job seekers and researchers understand the evolving hiring landscape in India.
